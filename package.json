@@ -1,0 +1,10 @@
+{
+  "name": "camel2kebab-proxy",
+  "version": "0.1.0",
+  "description": "An object to transform camelCase property name to kebab-case using ES6 proxies.",
+  "main": "index.js",
+  "repository": "https://github.com/occar421/camel2kebab-proxy.git",
+  "author": "MasuqaT <occar@hotmail.co.jp>",
+  "license": "MIT",
+  "private": false
+}
