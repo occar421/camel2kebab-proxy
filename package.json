@@ -1,0 +1,20 @@
+{
+  "name": "camel2kebab-proxy",
+  "version": "0.1.0",
+  "description":
+    "An object to transform camelCase property name to kebab-case using ES6 proxies.",
+  "main": "src/index.js",
+  "repository": "https://github.com/occar421/camel2kebab-proxy.git",
+  "author": "MasuqaT <occar@hotmail.co.jp>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "babel-jest": "^22.4.3",
+    "babel-preset-env": "^1.6.1",
+    "eslint": "^4.19.1",
+    "eslint-config-prettier": "^2.9.0",
+    "eslint-plugin-prettier": "^2.6.0",
+    "jest": "^22.4.3",
+    "prettier": "^1.11.1"
+  }
+}
